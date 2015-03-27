@@ -1,0 +1,11 @@
+References
+
+Websites
+
+markdalgeish.com
+en.wikipedia.org/wiki/prototype-based_programming
+developer.mozilla.org
+discussions.udacity.com/t/upload-your-frogger-clones-here-for-feedback/2877/18
+
+Books
+Object Oriented Javascript by Newton Saber
